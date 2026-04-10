@@ -8,11 +8,6 @@ and automates responses to system incidents in real time.
 
 ---
 
-## 🚀 Live Demo
-[Add your live link here]
-
-## 📸 Screenshots
-[Add screenshots from your /screenshots folder]
 
 ---
 
